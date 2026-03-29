@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -73,3 +74,7 @@ export default defineConfig([
   },
 ])
 ```
+=======
+# cyber-inventory-dashboard
+Cyber-style inventory management system built with React + Tailwind
+>>>>>>> b63caa7bbc996ae0b9bf1dcfcb3c483e1b6d39f2
